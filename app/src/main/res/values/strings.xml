@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Marvel</string>
+    <string name="loading">Loading...</string>
+    <string name="wait_plz">Veuillez attendre le service...</string>
+    <string name="Alive">Alive</string>
+    <string name="Dead">Dead</string>
+    <string name="Unknown">unknown</string>
+
+    <string name="name">Nom</string>
+    <string name="State">Statut</string>
+    <string name="species">Espèce</string>
+    <string name="type">Type</string>
+    <string name="gender">Genre</string>
+    <string name="origin">Origine</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+
+    <string name="pref_default_server_url">https://rickandmortyapi.com/api/</string>
+
+</resources>

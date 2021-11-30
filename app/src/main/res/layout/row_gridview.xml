@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/select_personel">
+
+    <ImageView
+        android:id="@+id/img_row"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/gridView_cellHeight"
+        android:scaleType="centerCrop"
+        />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/cellText_padding"
+     android:orientation="vertical"
+    android:background="@color/overlay"
+    android:layout_alignParentBottom="true"
+    android:weightSum="2">
+
+    <TextView
+        android:id="@+id/txt_name_row"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/cellText_textSize"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:weightSum="10"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/img_row_state"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/elementMargin"
+            android:layout_gravity="center"
+            android:layout_weight="0.6"/>
+        <TextView
+            android:id="@+id/txt_state_row"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/cellText_textSize"
+            android:layout_marginStart="@dimen/cellText_padding"
+            android:layout_weight="9.4"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+</RelativeLayout>
