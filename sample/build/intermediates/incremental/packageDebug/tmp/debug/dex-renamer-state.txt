@@ -1,0 +1,4 @@
+#Sun Nov 21 20:31:41 WAT 2021
+base.0=C\:\\Users\\sbenhmida.BFI-PRODUCTION\\Downloads\\Android-Universal-Image-Loader-master\\Android-Universal-Image-Loader-master\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

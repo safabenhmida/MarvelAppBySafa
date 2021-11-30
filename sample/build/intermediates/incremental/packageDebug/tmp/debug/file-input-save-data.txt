@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Nov 21 20:31:41 WAT 2021
+1.base=C\:\\Users\\sbenhmida.BFI-PRODUCTION\\Downloads\\Android-Universal-Image-Loader-master\\Android-Universal-Image-Loader-master\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.path=Living Things @\#&\=+-_.,\!()~'%20.jpg
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\sbenhmida.BFI-PRODUCTION\\Downloads\\Android-Universal-Image-Loader-master\\Android-Universal-Image-Loader-master\\sample\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=Universal Image Loader @\#&\=+-_.,\!()~'%20.png
+0.set=ASSET
+0.base=C\:\\Users\\sbenhmida.BFI-PRODUCTION\\Downloads\\Android-Universal-Image-Loader-master\\Android-Universal-Image-Loader-master\\sample\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex
